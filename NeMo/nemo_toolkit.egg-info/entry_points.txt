@@ -1,0 +1,2 @@
+[sdk.factories]
+llm = nemo.collections.llm

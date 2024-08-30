@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+IndicTransTokenizer/__init__.py
+IndicTransTokenizer/collator.py
+IndicTransTokenizer/evaluator.py
+IndicTransTokenizer/processor.py
+IndicTransTokenizer/tokenizer.py
+IndicTransTokenizer/version.py
+IndicTransTokenizer.egg-info/PKG-INFO
+IndicTransTokenizer.egg-info/SOURCES.txt
+IndicTransTokenizer.egg-info/dependency_links.txt
+IndicTransTokenizer.egg-info/requires.txt
+IndicTransTokenizer.egg-info/top_level.txt
