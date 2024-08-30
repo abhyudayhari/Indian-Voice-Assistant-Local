@@ -19,9 +19,14 @@ _**Features**_
 
 _**All the models used here are listed below**_
 
-For ASR task: [ASR Model](https://github.com/Open-Speech-EkStep/vakyansh-nemo-experimentation)
-For Translation task: [Translational Model](https://github.com/AI4Bharat/IndicTrans2)
-For Speech to Text task: [ Speech to Text Model](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)
+
+
+For ASR task: [ASR Model](https://github.com/Open-Speech-EkStep/vakyansh-nemo-experimentation) 
+
+For Translation task: [Translational Model](https://github.com/AI4Bharat/IndicTrans2) 
+
+For Speech to Text task: [ Speech to Text Model](https://github.com/facebookresearch/fairseq/tree/main/examples/mms) 
+
 
 Due to the gpu constraint i.e. limited to 4gb for running it locally we are currently picking MMS (Speech to text) but for larger gpu we can use [INDIC TTS](https://github.com/AI4Bharat/Indic-TTS) which gives natural voices)
 
