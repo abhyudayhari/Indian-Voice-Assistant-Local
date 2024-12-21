@@ -68,4 +68,5 @@ Contributions are welcome and appreciated! If you'd like to contribute to **NetL
    ```
 5. Submit a pull request.
 
-
+## License
+This project is licensed under the MIT license. See the [LICENSE](https://github.com/abhyudayhari/Indian-Voice-Assistant-Local/blob/master/LICENSE) file for details
