@@ -46,27 +46,16 @@ python3 app.py
 
 Note: This project is right now focussed on kannada, hindi and english language but u can download the relevant models and place them in correct  directories and change some code in **app.py**.
 
-## Contributing
+## CONTRIBUTING
 
-Contributions are welcome and appreciated! If you'd like to contribute to **NetLine**, please follow these steps:
+We welcome contributions to this project! If you'd like to contribute, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Naman-B-Parlecha/NetLine.git
-   ```
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/YourFeatureName
-   ```
-3. Make your changes and commit them:
-   ```bash
-   git commit -m "Add your message here"
-   ```
-4. Push your branch:
-   ```bash
-   git push origin feature/YourFeatureName
-   ```
-5. Submit a pull request.
+1. Fork the repository.
+2. Clone your forked repository to your local machine.
+3. Create a new branch for your feature or fix.
+4. Make your changes and commit them with descriptive messages.
+5. Push your changes to your forked repository.
+6. Create a pull request to the main repository.
 
-## License
-This project is licensed under the MIT license. See the [LICENSE](https://github.com/abhyudayhari/Indian-Voice-Assistant-Local/blob/master/LICENSE) file for details
+## LICENSE
+This project is licensed under the MIT License
