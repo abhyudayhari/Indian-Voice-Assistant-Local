@@ -21,7 +21,12 @@ _**All the models used here are listed below**_
 
 
 
-For ASR task: [ASR Model](https://github.com/Open-Speech-EkStep/vakyansh-nemo-experimentation) 
+For ASR task: [ASR Model](https://github.com/Open-Speech-EkStep/vakyansh-models) 
+Navigate to FineTuned Models and download them into folder structure as 
+```markdown
+
+Models/Language
+```
 
 For Translation task: [Translational Model](https://github.com/AI4Bharat/IndicTrans2) 
 
@@ -40,3 +45,27 @@ python3 app.py
 ```
 
 Note: This project is right now focussed on kannada, hindi and english language but u can download the relevant models and place them in correct  directories and change some code in **app.py**.
+
+## Contributing
+
+Contributions are welcome and appreciated! If you'd like to contribute to **NetLine**, please follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Naman-B-Parlecha/NetLine.git
+   ```
+2. Create a new branch:
+   ```bash
+   git checkout -b feature/YourFeatureName
+   ```
+3. Make your changes and commit them:
+   ```bash
+   git commit -m "Add your message here"
+   ```
+4. Push your branch:
+   ```bash
+   git push origin feature/YourFeatureName
+   ```
+5. Submit a pull request.
+
+
